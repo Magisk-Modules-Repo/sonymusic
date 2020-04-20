@@ -22,6 +22,12 @@ v4
 - No Longer Requires ADB Commands
 - Updated Template
 
+v5
+- Updated Framework
+- Remove Prebuilt APK
+- Fix Bootloop issues on some devices
+
 ## Description
 Enables Sony Music Player With Updatable Support From Google Play Store.
 *Must Clear PlayStore Data After Installing This Module.*
+*Then Install Sony Music App From Playstore*
